@@ -3,18 +3,6 @@
 
 #Start 
 
-inventario_Poke ={
-
-    "025" : {
-
-        "nome" : "Pikachu",
-        "vida" : 25,
-        "lvl" : 1,
-        "tipo" : "elétrico"
-
-    }
-
-} #inventario de pokemons
 inventario_I = {} #inventario de itens
 
 while True :
