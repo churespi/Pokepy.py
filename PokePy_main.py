@@ -1,5 +1,8 @@
-#PokePy 
+import Itens_inv
+import Pokemons_inv
+import random
 
+#PokePy 
 
 #Start 
 
