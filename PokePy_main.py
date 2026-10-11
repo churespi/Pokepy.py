@@ -1,6 +1,7 @@
 import Itens_inv
 import Pokemons_inv
 import random
+import Textos
 
 #PokePy 
 
